@@ -1,0 +1,28 @@
+body{ 
+    background:rgb(199, 196, 196);
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    background-image: url("banner.png");
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    font-size: 25px;
+   
+    
+
+
+} 
+
+    
+.celular{
+    justify-content: flex-end;
+    position: center;
+}
+
+h1 {
+    font-family:'Pacifico', cursive; color: white;
+    
+}
